@@ -129,9 +129,9 @@ main img.pequena{
         text-align: center;
         background-color: #1a5c37;
         margin: auto;
-        padding: 20px;
+        padding: 10px;
         margin-bottom: 20px;
-        margin: -10px -10px -10px -10px;
+      border-radius: 10px;
     }
 aside{
     background-color: #3ddc84;
