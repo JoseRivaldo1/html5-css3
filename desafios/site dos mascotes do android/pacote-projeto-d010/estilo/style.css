@@ -20,7 +20,7 @@
   --fonte-android: 'android', cursive;
   --fonte-destaque: 'Bebas Neue', sans-serif;
 
-
+}
 
 *{
     margin: 0px;
@@ -125,18 +125,22 @@ main img.pequena{
     margin: auto;
     display: block;
 }
-    main div{
+.video{
         text-align: center;
         background-color: #1a5c37;
         margin: auto;
         padding: 20px;
         margin-bottom: 20px;
+        margin: -10px -10px -10px -10px;
     }
 aside{
     background-color: #3ddc84;
     border-radius: 5px;
     padding: 10px;
 }
+
+
+
 aside h3{
     background-color: #1a5c37;
     color: white;
